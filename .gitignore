@@ -131,3 +131,5 @@ dmypy.json
 # Not needed files
 *.ui
 *.bat
+*.doc
+*.docx
